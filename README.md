@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aqsa015
 - 👀 I’m interested in web development
-- 🌱 I’m currently doing bachelors in computer science
+- 🌱 I’m currently learning react
 - 📫 How to reach me : aqsazulfiquar@gmail.com
 
 <!---
